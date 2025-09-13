@@ -6,4 +6,9 @@ Am not really thrilled about writing up a basic html boring recipe site
 but it will be further developed with CSS in later lessons.
 
 Credits:
-Keto Chocolate nut clusters: Recipe and image by Serious Keto
+All Recipes and images by Serious Keto:
+    https://www.seriousketo.com/archives/6959
+    https://www.seriousketo.com/archives/7611
+    https://www.seriousketo.com/archives/8066
+
+    
